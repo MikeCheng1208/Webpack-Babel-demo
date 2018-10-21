@@ -61,8 +61,8 @@ package.json
     "@babel/preset-env": "^7.0.0",
     "babel-loader": "^8.0.2",
     "webpack": "^4.5.0",
-    "webpack-cli": "^2.0.14",
-    "webpack-dev-server": "^3.1.1"
+    "webpack": "^4.21.0",
+    "webpack-cli": "^3.1.2"
   }
 }
 
